@@ -1,0 +1,4 @@
+github.com/hyperledger/fabric-contract-api-go v1.1.0 h1:ydG1qg6yPckfG+V/aJ8V2zld/r1VBn7AuV41G2I5gn4=
+github.com/hyperledger/fabric-contract-api-go v1.1.0/go.mod h1:mfKcuF6M6c85yT1c62zE+HlmKkA+x+dqu3Vnd5p8oL0=
+github.com/hyperledger/fabric-protos-go v1.2.0 h1:5a7hIj7SBY3xOXR7g9jS8BDpZMXCVfP80TtF8sm0NnE=
+github.com/hyperledger/fabric-protos-go v1.2.0/go.mod h1:mfKcuF6M6c85yT1c62zE+HlmKkA+x+dqu3Vnd5p8oL0=

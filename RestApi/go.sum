@@ -1,0 +1,5 @@
+github.com/gin-gonic/gin v1.8.0 h1:0Pfwz7TRD2FnGmnsmc5F1uPCOVe6K+Ne+58TZn28usA=
+github.com/gin-gonic/gin v1.8.0/go.mod h1:/N1UsKptS6CpVafBxib4jM4aXr1bJ3QUBW3DTuTgH/U=
+github.com/hyperledger/fabric-sdk-go v1.5.0 h1:L+arwz4IjHtUClTxkGrJf6NdjC3hFGM1B1L8wnIdnU4=
+github.com/hyperledger/fabric-sdk-go v1.5.0/go.mod h1:8M9Ki/5Zz7yAf5yyq6RAb2dIrH4JMCj64TEI9s/a9B0=
+
